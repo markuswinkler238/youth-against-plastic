@@ -14,7 +14,7 @@ body {
 }
 
 .hero {
-  background-image: url('https://files.worldwildlife.org/wwfcmsprod/images/Hero_image_WWF_D_Mehrweg_Recycling/image_landscape_large/0y44g9z4xr_WWF_D_Hero.jpg'); /* Beispielbild von WWF */
+  background-image: url('https://raw.githubusercontent.com/markuswinkler238/youth-against-plastic/main/moewe_web.jpg'); /* Headerbild */
   background-size: cover;
   background-position: center;
   height: 600px;
